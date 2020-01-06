@@ -1,0 +1,33 @@
+D:\Учеба\Практика\ООП\Lab5 — копия\Lab5\bin\Debug\netcoreapp2.1\Lab6.deps.json
+D:\Учеба\Практика\ООП\Lab5 — копия\Lab5\bin\Debug\netcoreapp2.1\Lab6.runtimeconfig.json
+D:\Учеба\Практика\ООП\Lab5 — копия\Lab5\bin\Debug\netcoreapp2.1\Lab6.runtimeconfig.dev.json
+D:\Учеба\Практика\ООП\Lab5 — копия\Lab5\bin\Debug\netcoreapp2.1\Lab6.dll
+D:\Учеба\Практика\ООП\Lab5 — копия\Lab5\bin\Debug\netcoreapp2.1\Lab6.pdb
+D:\Учеба\Практика\ООП\Lab5 — копия\Lab5\obj\Debug\netcoreapp2.1\Lab6.csprojAssemblyReference.cache
+D:\Учеба\Практика\ООП\Lab5 — копия\Lab5\obj\Debug\netcoreapp2.1\Lab6.csproj.CoreCompileInputs.cache
+D:\Учеба\Практика\ООП\Lab5 — копия\Lab5\obj\Debug\netcoreapp2.1\Lab6.AssemblyInfoInputs.cache
+D:\Учеба\Практика\ООП\Lab5 — копия\Lab5\obj\Debug\netcoreapp2.1\Lab6.AssemblyInfo.cs
+D:\Учеба\Практика\ООП\Lab5 — копия\Lab5\obj\Debug\netcoreapp2.1\Lab6.dll
+D:\Учеба\Практика\ООП\Lab5 — копия\Lab5\obj\Debug\netcoreapp2.1\Lab6.pdb
+D:\Учеба\Практика\ООП\Lab 6\Lab5\bin\Debug\netcoreapp2.1\Lab6.deps.json
+D:\Учеба\Практика\ООП\Lab 6\Lab5\bin\Debug\netcoreapp2.1\Lab6.runtimeconfig.json
+D:\Учеба\Практика\ООП\Lab 6\Lab5\bin\Debug\netcoreapp2.1\Lab6.runtimeconfig.dev.json
+D:\Учеба\Практика\ООП\Lab 6\Lab5\bin\Debug\netcoreapp2.1\Lab6.dll
+D:\Учеба\Практика\ООП\Lab 6\Lab5\bin\Debug\netcoreapp2.1\Lab6.pdb
+D:\Учеба\Практика\ООП\Lab 6\Lab5\obj\Debug\netcoreapp2.1\Lab6.csprojAssemblyReference.cache
+D:\Учеба\Практика\ООП\Lab 6\Lab5\obj\Debug\netcoreapp2.1\Lab6.csproj.CoreCompileInputs.cache
+D:\Учеба\Практика\ООП\Lab 6\Lab5\obj\Debug\netcoreapp2.1\Lab6.AssemblyInfoInputs.cache
+D:\Учеба\Практика\ООП\Lab 6\Lab5\obj\Debug\netcoreapp2.1\Lab6.AssemblyInfo.cs
+D:\Учеба\Практика\ООП\Lab 6\Lab5\obj\Debug\netcoreapp2.1\Lab6.dll
+D:\Учеба\Практика\ООП\Lab 6\Lab5\obj\Debug\netcoreapp2.1\Lab6.pdb
+D:\Учеба\Практика\ООП\Lab 7\Lab5\bin\Debug\netcoreapp2.1\Lab6.deps.json
+D:\Учеба\Практика\ООП\Lab 7\Lab5\bin\Debug\netcoreapp2.1\Lab6.runtimeconfig.json
+D:\Учеба\Практика\ООП\Lab 7\Lab5\bin\Debug\netcoreapp2.1\Lab6.runtimeconfig.dev.json
+D:\Учеба\Практика\ООП\Lab 7\Lab5\bin\Debug\netcoreapp2.1\Lab6.dll
+D:\Учеба\Практика\ООП\Lab 7\Lab5\bin\Debug\netcoreapp2.1\Lab6.pdb
+D:\Учеба\Практика\ООП\Lab 7\Lab5\obj\Debug\netcoreapp2.1\Lab6.csprojAssemblyReference.cache
+D:\Учеба\Практика\ООП\Lab 7\Lab5\obj\Debug\netcoreapp2.1\Lab6.csproj.CoreCompileInputs.cache
+D:\Учеба\Практика\ООП\Lab 7\Lab5\obj\Debug\netcoreapp2.1\Lab6.AssemblyInfoInputs.cache
+D:\Учеба\Практика\ООП\Lab 7\Lab5\obj\Debug\netcoreapp2.1\Lab6.AssemblyInfo.cs
+D:\Учеба\Практика\ООП\Lab 7\Lab5\obj\Debug\netcoreapp2.1\Lab6.dll
+D:\Учеба\Практика\ООП\Lab 7\Lab5\obj\Debug\netcoreapp2.1\Lab6.pdb
