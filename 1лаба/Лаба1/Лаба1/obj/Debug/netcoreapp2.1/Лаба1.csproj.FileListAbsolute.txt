@@ -1,0 +1,11 @@
+D:\Учеба\Практика\ООП\1лаба\Лаба1\Лаба1\bin\Debug\netcoreapp2.1\Лаба1.deps.json
+D:\Учеба\Практика\ООП\1лаба\Лаба1\Лаба1\bin\Debug\netcoreapp2.1\Лаба1.runtimeconfig.json
+D:\Учеба\Практика\ООП\1лаба\Лаба1\Лаба1\bin\Debug\netcoreapp2.1\Лаба1.runtimeconfig.dev.json
+D:\Учеба\Практика\ООП\1лаба\Лаба1\Лаба1\bin\Debug\netcoreapp2.1\Лаба1.dll
+D:\Учеба\Практика\ООП\1лаба\Лаба1\Лаба1\bin\Debug\netcoreapp2.1\Лаба1.pdb
+D:\Учеба\Практика\ООП\1лаба\Лаба1\Лаба1\obj\Debug\netcoreapp2.1\Лаба1.csprojAssemblyReference.cache
+D:\Учеба\Практика\ООП\1лаба\Лаба1\Лаба1\obj\Debug\netcoreapp2.1\Лаба1.csproj.CoreCompileInputs.cache
+D:\Учеба\Практика\ООП\1лаба\Лаба1\Лаба1\obj\Debug\netcoreapp2.1\Лаба1.AssemblyInfoInputs.cache
+D:\Учеба\Практика\ООП\1лаба\Лаба1\Лаба1\obj\Debug\netcoreapp2.1\Лаба1.AssemblyInfo.cs
+D:\Учеба\Практика\ООП\1лаба\Лаба1\Лаба1\obj\Debug\netcoreapp2.1\Лаба1.dll
+D:\Учеба\Практика\ООП\1лаба\Лаба1\Лаба1\obj\Debug\netcoreapp2.1\Лаба1.pdb
