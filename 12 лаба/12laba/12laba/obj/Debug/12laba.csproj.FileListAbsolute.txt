@@ -1,0 +1,14 @@
+D:\Учеба\ООП\12 лаба\12laba\12laba\bin\Debug\12laba.exe.config
+D:\Учеба\ООП\12 лаба\12laba\12laba\bin\Debug\12laba.exe
+D:\Учеба\ООП\12 лаба\12laba\12laba\bin\Debug\12laba.pdb
+D:\Учеба\ООП\12 лаба\12laba\12laba\obj\Debug\12laba.csprojAssemblyReference.cache
+D:\Учеба\ООП\12 лаба\12laba\12laba\obj\Debug\12laba.csproj.CoreCompileInputs.cache
+D:\Учеба\ООП\12 лаба\12laba\12laba\obj\Debug\12laba.exe
+D:\Учеба\ООП\12 лаба\12laba\12laba\obj\Debug\12laba.pdb
+D:\Учеба\Практика\ООП\12 лаба\12laba\12laba\bin\Debug\12laba.exe.config
+D:\Учеба\Практика\ООП\12 лаба\12laba\12laba\bin\Debug\12laba.exe
+D:\Учеба\Практика\ООП\12 лаба\12laba\12laba\bin\Debug\12laba.pdb
+D:\Учеба\Практика\ООП\12 лаба\12laba\12laba\obj\Debug\12laba.csprojAssemblyReference.cache
+D:\Учеба\Практика\ООП\12 лаба\12laba\12laba\obj\Debug\12laba.csproj.CoreCompileInputs.cache
+D:\Учеба\Практика\ООП\12 лаба\12laba\12laba\obj\Debug\12laba.exe
+D:\Учеба\Практика\ООП\12 лаба\12laba\12laba\obj\Debug\12laba.pdb
