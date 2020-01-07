@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Flows>
+  <flower>
+    <flower>Very beautiful</flower>
+    <Cost>1000</Cost>
+  </flower>
+  <flower>
+    <flower>beautiful</flower>
+    <Cost>2000</Cost>
+  </flower>
+</Flows>

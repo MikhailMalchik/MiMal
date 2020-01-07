@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfFlowers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Flowers>
+    <Name>Very beautiful</Name>
+    <Cost>1000</Cost>
+    <Type>vasilki</Type>
+    <Color>fff</Color>
+  </Flowers>
+  <Flowers>
+    <Name>beautiful</Name>
+    <Cost>2000</Cost>
+    <Type>Rose</Type>
+    <Color>ddd</Color>
+  </Flowers>
+</ArrayOfFlowers>

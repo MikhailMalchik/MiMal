@@ -1,0 +1,10 @@
+D:\Учеба\Практика\ООП\14lab\14lab\bin\Debug\14lab.exe.config
+D:\Учеба\Практика\ООП\14lab\14lab\bin\Debug\14lab.exe
+D:\Учеба\Практика\ООП\14lab\14lab\bin\Debug\14lab.pdb
+D:\Учеба\Практика\ООП\14lab\14lab\bin\Debug\Newtonsoft.Json.dll
+D:\Учеба\Практика\ООП\14lab\14lab\bin\Debug\Newtonsoft.Json.xml
+D:\Учеба\Практика\ООП\14lab\14lab\obj\Debug\14lab.csprojAssemblyReference.cache
+D:\Учеба\Практика\ООП\14lab\14lab\obj\Debug\14lab.csproj.CoreCompileInputs.cache
+D:\Учеба\Практика\ООП\14lab\14lab\obj\Debug\14lab.csproj.CopyComplete
+D:\Учеба\Практика\ООП\14lab\14lab\obj\Debug\14lab.exe
+D:\Учеба\Практика\ООП\14lab\14lab\obj\Debug\14lab.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flowers>
+  <flower name="vasilki">
+    <Name>Vasilki</Name>
+    <Cost>1000</Cost>
+  </flower>
+  <flower name="Rose">
+    <Name>Rose</Name>
+    <Cost>2000</Cost>
+  </flower>
+</flowers>
